@@ -85,6 +85,7 @@ ipython_config.py
 #model
 linear-regression/linear_regression_model.pth
 linear-regression/lr.safetensors
+logistic-regression/LogisticRegression.pth
 logistic-regression/MNIST/*
 
 # pyenv
