@@ -1,0 +1,582 @@
+[
+    {
+        "sentence": "11:10 AM CHEST (PORTABLE AP) Clip # Reason: Is their evidence of infectious cause to fevers in the lung Admitting Diagnosis: BACTEREMIA\nMEDICAL CONDITION: 39 year old man with ESRD, MSSA bacteremia, and iliopsoas hematomas s/p surgical debridement who is on broad spectrum Abx and had been afebrile for 48hrs, now with fever overnight to 101.2.",
+        "category_id": 4
+    },
+    {
+        "sentence": "REASON FOR THIS EXAMINATION: Is their evidence of infectious cause to fevers in the lung paranchyma?",
+        "category_id": 19
+    },
+    {
+        "sentence": "FINAL REPORT HISTORY:",
+        "category_id": 9
+    },
+    {
+        "sentence": "Fever, to assess for underlying pneumonia.",
+        "category_id": 2
+    },
+    {
+        "sentence": "FINDINGS:",
+        "category_id": 4
+    },
+    {
+        "sentence": "In comparison with the study of , there is little change.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Central catheter remains in place and a dense granulomatous nodal calcification is again seen on the left.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Specifically, there is no evidence of acute pneumonia to account for the fever of the patient.",
+        "category_id": 4
+    },
+    {
+        "sentence": "6:55 PM CHEST PORT.",
+        "category_id": 3
+    },
+    {
+        "sentence": "LINE PLACEMENT Clip # Reason: 45 cm Picc placed in left basilic vein, need Picc tip placem Admitting Diagnosis: BACTEREMIA\nMEDICAL CONDITION: 39 year old man with new picc REASON FOR THIS EXAMINATION: 45 cm Picc placed in left basilic vein, need Picc tip placement\nWET READ: EAGg SUN 8:17 PM",
+        "category_id": 1
+    },
+    {
+        "sentence": "Distal end of left PICC in mid SVC.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No PTX.",
+        "category_id": 4
+    },
+    {
+        "sentence": "d/ at 8:15 pm.",
+        "category_id": 1
+    },
+    {
+        "sentence": "FINAL REPORT AP CHEST, 7:16 P.M., HISTORY: New PIC line, check placement.",
+        "category_id": 4
+    },
+    {
+        "sentence": "IMPRESSION: AP chest compared to through 15:",
+        "category_id": 18
+    },
+    {
+        "sentence": "Left PIC line ends in the mid SVC.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Heavy prevascular mediastinal nodal calcifications probably granulomatous or collection of treated lymphoma.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Heart size is normal.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no pleural abnormality, and the lungs are grossly clear.\nPATIENT/TEST INFORMATION:",
+        "category_id": 4
+    },
+    {
+        "sentence": "Indication: Congestive heart failure Height: (in) 71",
+        "category_id": 1
+    },
+    {
+        "sentence": "Weight (lb): 202 BSA (m2): 2.12 m2 BP (mm Hg): 118/84 HR (bpm): 125 Status: Inpatient Date/Time: at 16:12 Test: TTE (Complete) Doppler: Full Doppler and color Doppler Contrast: None Technical Quality: Suboptimal INTERPRETATION:",
+        "category_id": 4
+    },
+    {
+        "sentence": "Findings: LEFT VENTRICLE: Cannot assess LVEF.",
+        "category_id": 4
+    },
+    {
+        "sentence": "LV WALL MOTION: Regional LV wall motion abnormalities include: basal inferior - akinetic; mid inferior - akinetic; RIGHT VENTRICLE: Normal RV wall thickness.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Normal RV chamber size.",
+        "category_id": 4
+    },
+    {
+        "sentence": "RV function depressed.",
+        "category_id": 4
+    },
+    {
+        "sentence": "AORTA:",
+        "category_id": 1
+    },
+    {
+        "sentence": "Normal aortic diameter at the sinus level.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No 2D or Doppler evidence of distal arch coarctation.",
+        "category_id": 4
+    },
+    {
+        "sentence": "MITRAL VALVE:",
+        "category_id": 1
+    },
+    {
+        "sentence": "Normal mitral valve leaflets.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No MVP.",
+        "category_id": 1
+    },
+    {
+        "sentence": "Normal mitral valve supporting structures.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No MS.",
+        "category_id": 1
+    },
+    {
+        "sentence": "Mild (1+) MR. GENERAL COMMENTS: Suboptimal image quality - poor echo windows.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Conclusions:",
+        "category_id": 9
+    },
+    {
+        "sentence": "Overall left ventricular systolic function cannot be reliably assessed but appears depressed, with inferior akinesis.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Right ventricular chamber size is normal, with depressed free wall contractility.",
+        "category_id": 4
+    },
+    {
+        "sentence": "The mitral valve leaflets are structurally normal.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no mitral valve prolapse.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Mild (1+) mitral regurgitation is seen.",
+        "category_id": 4
+    },
+    {
+        "sentence": "10:48 AM CT PELVIS W/CONTRAST Clip # Reason: Is there abscess or infectious fluid collection in RLQ?",
+        "category_id": 4
+    },
+    {
+        "sentence": "Admitting Diagnosis: BACTEREMIA Contrast: OPTIRAY Amt: 130\nMEDICAL CONDITION: 39 year old man with with ESRD on HD who was admitted to hospital with MSSA line sepsis.",
+        "category_id": 1
+    },
+    {
+        "sentence": "More recently underwent a surgical intervention for R thigh drainage of hematoma with access through RLQ of abdomen.",
+        "category_id": 3
+    },
+    {
+        "sentence": "Now febrile with RLQ U/S showing fluid collections suspicious for abscess.",
+        "category_id": 4
+    },
+    {
+        "sentence": "REASON FOR THIS EXAMINATION: Is there abscess or infectious fluid collection in RLQ?",
+        "category_id": 19
+    },
+    {
+        "sentence": "CONTRAINDICATIONS for IV CONTRAST: ESRD on HD\nPROVISIONAL FINDINGS IMPRESSION (PFI): 3:08 PM PFI: 1.",
+        "category_id": 1
+    },
+    {
+        "sentence": "Two fluid collections in the right anterior abdominal wall, one may be residual hematoma, the other may be fluid, infection is not excluded.",
+        "category_id": 4
+    },
+    {
+        "sentence": "2. Multiple locules of air within the right iliacus muscle, some of which may be post-operative, the remaining may be related to surgical packing with Surgicel.",
+        "category_id": 4
+    },
+    {
+        "sentence": "A small amount of air may be intraperitoneal.",
+        "category_id": 4
+    },
+    {
+        "sentence": "3. Heterogeneous attenuation of the left iliacus muscle may reflect residual hematoma at the site but no locules of air within the left iliacus.",
+        "category_id": 4
+    },
+    {
+        "sentence": "4. Small amount of free fluid within the pelvis.",
+        "category_id": 4
+    },
+    {
+        "sentence": "5. Bilateral renal cysts, the left may be proteinaceous.",
+        "category_id": 4
+    },
+    {
+        "sentence": "FINAL REPORT HISTORY:",
+        "category_id": 9
+    },
+    {
+        "sentence": "End-stage renal disease on hemodialysis, admitted to the hospital with emesis and line sepsis, and recently underwent surgical intervention of the right thigh hematoma drainage.",
+        "category_id": 1
+    },
+    {
+        "sentence": "CT PELVIS:",
+        "category_id": 4
+    },
+    {
+        "sentence": "Helical imaging was performed through the pelvis after IV contrast administration.",
+        "category_id": 3
+    },
+    {
+        "sentence": "No oral contrast present.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Sagittal and coronal reformats were prepared.",
+        "category_id": 4
+    },
+    {
+        "sentence": "COMPARISON: Soft tissue ultrasound , CT pelvis , and MR .",
+        "category_id": 4
+    },
+    {
+        "sentence": "CT PELVIS:",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is a hypodense cyst within the right kidney (2:2).",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is an additional probable simple cyst within the left kidney (2:5).",
+        "category_id": 4
+    },
+    {
+        "sentence": "No hydronephrosis is present.",
+        "category_id": 4
+    },
+    {
+        "sentence": "The inferior margin of the liver appears normal.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Pelvic loops of bowel are normal in their appearance.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Bladder is unremarkable.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is intermediate density fluid in the dependent portion of the pelvis (2:46), new.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no significant adenopathy.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is marked heterogeneous attenuation in the left iliacus muscle, which (Over) 10:48 AM CT PELVIS W/CONTRAST Clip # Reason:",
+        "category_id": 4
+    },
+    {
+        "sentence": "Is there abscess or infectious fluid collection in RLQ?",
+        "category_id": 4
+    },
+    {
+        "sentence": "Admitting Diagnosis: BACTEREMIA Contrast: OPTIRAY Amt: 130\nFINAL REPORT (Cont) appears enlarged.",
+        "category_id": 1
+    },
+    {
+        "sentence": "There is no air within the left iliacus muscle (2:33).",
+        "category_id": 4
+    },
+    {
+        "sentence": "There are multiple locules of air within the right iliacus muscle (2:28) compatible with surgical packing with Surgicel.",
+        "category_id": 4
+    },
+    {
+        "sentence": "The right iliacus is heterogeneous in its attenuation, which may reflect residual blood products.",
+        "category_id": 4
+    },
+    {
+        "sentence": "More anteriorly within the iliacus muscle is an additional locule of air.",
+        "category_id": 4
+    },
+    {
+        "sentence": "It is unclear if this area extends intraperitoneal (2:26).",
+        "category_id": 4
+    },
+    {
+        "sentence": "In the right anterior abdominal wall is a poorly defined fluid collection measuring 4.4 x 2.2 cm and containing several locules of air (2:40).",
+        "category_id": 4
+    },
+    {
+        "sentence": "Underlying right anterior abdominal wall skin staples is a dense 4.6 x 2.2 cm collection which may represent residual hematoma.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There are multiple extensive locules of air in the anterior and right abdominal wall, similar to the prior examination.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Skin staples overlie the left anterior abdominal wall.",
+        "category_id": 4
+    },
+    {
+        "sentence": "BONE AND SOFT TISSUE WINDOWS: There are no suspicious-appearing sclerotic or lytic lesions.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no evidence for bone destruction as cortical margins along the margin of the right and left iliacus remain well defined without evidence for osteomyelitis.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is anasarca.",
+        "category_id": 1
+    },
+    {
+        "sentence": "IMPRESSION:",
+        "category_id": 18
+    },
+    {
+        "sentence": "1.",
+        "category_id": 22
+    },
+    {
+        "sentence": "Two fluid collections in the right anterior abdominal wall, one may be residual hematoma, the other may be fluid, infection is not excluded.",
+        "category_id": 4
+    },
+    {
+        "sentence": "2. Multiple locules of air within the right iliacus muscle, some of which may be post-operative, the remaining may be related to surgical packing with Surgicel.",
+        "category_id": 4
+    },
+    {
+        "sentence": "A small amount of air may be intraperitoneal.",
+        "category_id": 4
+    },
+    {
+        "sentence": "3.",
+        "category_id": 2
+    },
+    {
+        "sentence": "Persistent large amount of air in the anterior abdominal wall, fascititis is not excluded.",
+        "category_id": 4
+    },
+    {
+        "sentence": "4. Heterogeneous attenuation of the left iliacus muscle may reflect residual hematoma at the site but no locules of air within the left iliacus.",
+        "category_id": 4
+    },
+    {
+        "sentence": "5. Small amount of free fluid within the pelvis.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Findings were discussed with Dr. of the orthopedic service at 2 p.m. on .",
+        "category_id": 9
+    },
+    {
+        "sentence": "3:31 PM CHEST PORT.",
+        "category_id": 3
+    },
+    {
+        "sentence": "LINE PLACEMENT; -77",
+        "category_id": 3
+    },
+    {
+        "sentence": "BY DIFFERENT PHYSICIAN # Reason: 1520\nMEDICAL CONDITION: 39 year old man with new RIJ HD line REASON FOR THIS EXAMINATION: line placement\nFINAL REPORT TYPE OF EXAMINATION:",
+        "category_id": 3
+    },
+    {
+        "sentence": "Chest, AP portable single view.",
+        "category_id": 4
+    },
+    {
+        "sentence": "INDICATION: 39-year-old male patient with new right internal jugular hemodialysis line.",
+        "category_id": 3
+    },
+    {
+        "sentence": "Check placement.",
+        "category_id": 3
+    },
+    {
+        "sentence": "FINDINGS:",
+        "category_id": 4
+    },
+    {
+        "sentence": "AP single view of the chest has been obtained with patient in sitting semi-upright position.",
+        "category_id": 4
+    },
+    {
+        "sentence": "A wide caliber double-lumen hemodialysis catheter has been inserted via the right internal jugular approach and its tip is overlying the right-sided upper mediastinum terminating at level 1 cm below the carina.",
+        "category_id": 3
+    },
+    {
+        "sentence": "This is compatible with a location in the mid portion of the SVC.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No pneumothorax is seen.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Heart size is normal.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No evidence of pulmonary vascular congestion or acute infiltrates.",
+        "category_id": 4
+    },
+    {
+        "sentence": "11:50 AM MR HIP W/O CONRAST BILAT Clip # Reason: eval for infection, acute process; please obtain imaging of Admitting Diagnosis: BACTEREMIA\nMEDICAL CONDITION: 39 year old man with right hip pain, MSSA bacteremia REASON FOR THIS EXAMINATION: eval for infection, acute process; please obtain imaging of pelvis down to lower trochanter to assess for vascular abnormalities/AVN CONTRAINDICATIONS for IV CONTRAST: ESRD Yes to Choyke questions.",
+        "category_id": 1
+    },
+    {
+        "sentence": "WET READ: KRmb SUN 5:28 PM Limited by lack of Gadolinium due to renal failure.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Bilateral iliacus abscesses, multiloculated, right larger than left.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Some hemorrhagic components.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Associated adjacent myositis in the right upper thigh.",
+        "category_id": 1
+    },
+    {
+        "sentence": "No hip joint to suggest septic arthritis.",
+        "category_id": 4
+    },
+    {
+        "sentence": "No extension into the spinal canal or psoas muscles.",
+        "category_id": 4
+    },
+    {
+        "sentence": "K. Rafatzand, Body MRI fellow\nFINAL REPORT MRI OF THE HIPS, CLINICAL HISTORY:",
+        "category_id": 22
+    },
+    {
+        "sentence": "Right hip pain, MSSA bacteremia.",
+        "category_id": 1
+    },
+    {
+        "sentence": "COMPARISON: Ultrasound .",
+        "category_id": 4
+    },
+    {
+        "sentence": "TECHNIQUE:",
+        "category_id": 3
+    },
+    {
+        "sentence": "Multiplanar T1- and T2-weighted images of the right hip and pelvis was acquired on a 1.5 Tesla magnet without contrast per department protocol.",
+        "category_id": 4
+    },
+    {
+        "sentence": "FINDINGS:",
+        "category_id": 4
+    },
+    {
+        "sentence": "Evaluation is slightly limited due to lack of intravenous contrast, which could not be administered due to chronic renal insufficiency.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Within these limits, there is evidence of bilateral multiloculated fluid collections in the iliopsoas musculature, right greater than left.",
+        "category_id": 4
+    },
+    {
+        "sentence": "On the right, heterogeneous T2 hyperintense, and mainly T1 hypointense material within the right iliacus muscle markedly expands this area, with heterogeneous collection measuring approximately 12 x 5.5 x 4.4 cm (7, 15 and 9, 15).",
+        "category_id": 4
+    },
+    {
+        "sentence": "This extends along the iliopsoas tendon on the right.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There are internal fluid-fluid levels with areas of T1 hyperintensity which may represent blood products or proteinaceous debris.",
+        "category_id": 4
+    },
+    {
+        "sentence": "On the left, similar but smaller heterogeneously T2 hyperintense fluid collection measures 3.9 x 3.5 x 2.1 cm (7, 15 and 9, 19).",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is edema in the surrounding musculature on both sides, consistent with myositis, which extends into the right upper thigh, more evident on the right than on the left.",
+        "category_id": 1
+    },
+    {
+        "sentence": "Adjacent to the distal iliopsoas tendon on the right, there is a small area of fluid signal just behind the rectus femoris, measuring 13 x 14 mm (9, 44).",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no evidence of any bowel communication.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no definite communication with the paraspinal musculature.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Proximal psoas musculature bilaterally appears within normal limits (9, 19).",
+        "category_id": 4
+    },
+    {
+        "sentence": "Visualized intrapelvic contents are otherwise unremarkable, except to note (Over) 11:50 AM MR HIP W/O CONRAST BILAT Clip # Reason: eval for infection, acute process; please obtain imaging of Admitting Diagnosis: BACTEREMIA\nFINAL REPORT (Cont) trace free pelvic fluid.",
+        "category_id": 4
+    },
+    {
+        "sentence": "There is no hip effusion on either side.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Visualized marrow signal is moderately heterogeneous, but probably represents red marrow reconversion versus sequelae of renal failure.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Surrounding soft tissues are otherwise unremarkable.",
+        "category_id": 4
+    },
+    {
+        "sentence": "IMPRESSION: 1. Bilateral heterogeneous fluid collections in the iliacus muscles, most consistent with abscesses, right greater than left.",
+        "category_id": 18
+    },
+    {
+        "sentence": "Fluid-fluid levels with areas of T1 hyperintensity suggest the presence of internal hemorrhage and/or proteinaceous debris.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Collection on the right extends into the iliopsoas bursa, with associated myositis, and small area of focal fluid near the rectus femoris origin.",
+        "category_id": 4
+    },
+    {
+        "sentence": "2.",
+        "category_id": 2
+    },
+    {
+        "sentence": "No evidence of hip effusions.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Sinus tachycardia.",
+        "category_id": 2
+    },
+    {
+        "sentence": "Left bundle-branch block.",
+        "category_id": 1
+    },
+    {
+        "sentence": "Since the previous tracing of there is probably no significant change.",
+        "category_id": 4
+    },
+    {
+        "sentence": "Sinus tachycardia.",
+        "category_id": 2
+    },
+    {
+        "sentence": "Probable incomplete left bundle-branch block.",
+        "category_id": 1
+    },
+    {
+        "sentence": "Since the previous tracing of no significant change.",
+        "category_id": 4
+    }
+]
